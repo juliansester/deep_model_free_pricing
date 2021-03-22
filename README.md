@@ -8,8 +8,11 @@ We introduce a novel and highly tractable supervised learning approach based on 
 
 ## Usage
 The Folder 'Example 2.5' contains the python notebook related to Example 2.5 and the trained neural network as *.h5-file.
+
 The Folder 'Example 2.6' contains the python notebook related to Example 2.6 and the trained neural network as *.h5-file.
+
 The Folder 'Example 2.7' contains the python notebook related to Example 2.7 and the trained neural network as *.h5-file.
+
 The Folder 'Examples MOT' contains the python notebook related to Example 3.5, Example 3.6, 
 the files needed to create the samples (as *.py files) and the trained neural network as *.h5-file.
 
