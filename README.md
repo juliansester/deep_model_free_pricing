@@ -5,16 +5,14 @@ Ariel Neufeld and Julian Sester.
 ## Abstract
 We introduce a novel and highly tractable supervised learning approach based on neural networks that can be applied for the computation of model-free price bounds of, potentially high-dimensional, financial derivatives and for the determination of optimal hedging strategies attaining these bounds. In particular, our methodology allows to train a single neural network offline and then to use it online for the fast determination of model-free price bounds of a whole class of financial derivatives with current market data. We show the applicability of this approach and highlight its accuracy in several examples involving real market data. Further, we show how a neural network can be trained to solve martingale optimal transport problems involving fixed marginal distributions instead of financial market data.
 
+# Preprint
+Can be found [here](https://arxiv.org/abs/2103.11435)
 
 # Content
 1. The Folder 'Example 2.5' contains the python notebook related to Example 2.5 and the trained neural network as *.h5-file.
 2. The Folder 'Example 2.6' contains the python notebook related to Example 2.6 and the trained neural network as *.h5-file.
 3. The Folder 'Example 2.7' contains the python notebook related to Example 2.7 and the trained neural network as *.h5-file.
 4. The Folder 'Examples MOT' contains the python notebook related to Example 3.5, Example 3.6, the files needed to create the samples (as *.py files) and the trained neural network as *.h5-file.
-
-
-# Preprint
-Can be found [here](https://arxiv.org/abs/2103.11435)
 
 
 
