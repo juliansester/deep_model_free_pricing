@@ -9,10 +9,11 @@ We introduce a novel and highly tractable supervised learning approach based on 
 Can be found [here](https://arxiv.org/abs/2103.11435)
 
 # Content
-1. The Folder 'Example 2.5' contains the python notebook related to Example 2.5 and the trained neural network as *.h5-file.
-2. The Folder 'Example 2.6' contains the python notebook related to Example 2.6 and the trained neural network as *.h5-file.
-3. The Folder 'Example 2.7' contains the python notebook related to Example 2.7 and the trained neural network as *.h5-file.
-4. The Folder 'Examples MOT' contains the python notebook related to Example 3.5, Example 3.6, the files needed to create the samples (as *.py files) and the trained neural network as *.h5-file.
+1. The Folder ['Example 2.5'](https://github.com/juliansester/deep_model_free_pricing/tree/Example-2.5) contains the python notebook related to Example 2.5 and the trained neural network as *.h5-file.
+2. The Folder ['Example 2.6'](https://github.com/juliansester/deep_model_free_pricing/tree/Example-2.6) contains the python notebook related to Example 2.6 and the trained neural network as *.h5-file.
+3. The Folder ['Example 2.7'](https://github.com/juliansester/deep_model_free_pricing/tree/Example-2.7) contains the python notebook related to Example 2.7 and the trained neural network as *.h5-file.
+4. The Folder ['Examples MOT'](https://github.com/juliansester/deep_model_free_pricing/tree/Examples-MOT) contains the python notebook related to Example 3.5, Example 3.6, the files needed to create the samples (as *.py files) and the trained neural network as *.h5-file.
+5. The Folder ['Functions'](https://github.com/juliansester/deep_model_free_pricing/tree/Functions) contains several useful functions.
 
 
 
